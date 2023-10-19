@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 3674e26e-bdf9-4445-ae8f-95db6c58b3a5
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 31359364-5227-41fa-b835-76031dacd8c4
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - activateAvatar
+  - activateAxis
+  - activateJumpingRay
+  - activateTarget
+  - PlayAudioSource
+  - PointTowards
+  - SetColor
+  - SetHitVisualizationEnabled
+  - setJumpingRayValidity
+  - SetNewEnabledState
+  - SetNewRadius
+  - SetPoseValidity
+  - SetPreviewEnabled
+  - StopPointTowards
+  - OnCreateObject
+  - OnUndoObject
+  - SetName
+  - SetPlatformId
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - SwitchEquipment
+  - SwitchRenderingTechniques
+  - OnPaint
+  - ToggleLineRenderer
+  - NavigateSlide
+  - SwitchManipulationTechniques
+  - OnManipulation
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,51 @@
+{
+    "configName": "app_Weimar",
+    "startupFeedback": false,
+    "startupFeedbackPath": "",    
+    "multiUserSettings": {
+        "screenWidth": 5.0,
+        "screenHeight": 2.65,
+        "screenPos": [0.0, 1.415, 1.6],
+        "windowSettings": [4096, 2160, 0, 0],
+        "windowSettingsCropped": [4096, 2160, 0, 0],
+        "monoFallback": false,
+        "monoFallbackDetectionDuration": 10.0,
+        "monoFallbackDetectionMovementThreshold": 0.01,
+        "userDefault": {
+            "username": "User",
+            "hostname": "localhost",
+            "masterFlag": true,
+            "headtrackingFlag": true,
+            "trackingID": 39,
+            "fixedHeadPos": [0, 1.7, -0.4],
+            "eyeDistance": 0.064
+        },
+        "users": [{
+            "username": "André",
+            "hostname": "danaus",
+            "masterFlag": true,
+            "headtrackingFlag": true,
+            "trackingID": 39,
+            "fixedHeadPos": [0, 1.7, -0.4],
+            "eyeDistance": 0.064
+        },
+        {
+            "username": "Steppo",
+            "hostname": "belos",
+            "masterFlag": false,
+            "headtrackingFlag": true,
+            "trackingID": 35,
+            "fixedHeadPos": [0, 1.7, -0.4],
+            "eyeDistance": 0.064
+        },
+        {
+            "username": "Alex",
+            "hostname": "hydra",
+            "masterFlag": false,
+            "headtrackingFlag": true,
+            "trackingID": 34,
+            "fixedHeadPos": [0, 1.7, -0.4],
+            "eyeDistance": 0.064
+        }
+    ]}
+}
